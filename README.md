@@ -47,3 +47,6 @@ Fork the repository.
 - Commit your changes and push to your fork.
 - Open a pull request to the main branch.
 - Refer to the CONTRIBUTING.md file for detailed guidelines.
+
+## **Getting Help**
+If you encounter any issues or have questions, feel free to open an issue or contact Dorothy Vick via email.
