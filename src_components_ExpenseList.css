@@ -1,0 +1,15 @@
+.expense-list {
+  margin-top: 20px;
+}
+
+.expense-list-item {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  background-color: #f9f9f9;
+  border-bottom: 1px solid #ddd;
+}
+
+.expense-list-item:last-child {
+  border-bottom: none;
+}
