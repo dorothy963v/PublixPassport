@@ -16,9 +16,9 @@ PublixPassport is a comprehensive application designed to streamline expense man
 
 ## Author
 
-**Dorothy Vick**  
-Email: [dorothy963vick@outlook.com](mailto:dorothy963vick@outlook.com)  
-Website: [PublixPassport](https://www.publixpassport.com)
+- **Name**: Dorothy Vick  
+- **Email**: dorothy963vick@outlook.com 
+- **Website**: PublixPassport
 
 Dorothy Vick is a seasoned developer with a passion for creating efficient and user-friendly applications. With a strong background in web development and expertise in React, she has a track record of building high-quality projects. Dorothy is known for her meticulous attention to detail and her commitment to helping others succeed in the world of coding.
 
