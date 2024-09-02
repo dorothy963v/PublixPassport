@@ -1,4 +1,8 @@
-PublixPassport is a comprehensive application designed to streamline expense management for users. Whether you're managing personal expenses or corporate finances, PublixPassport offers a user-friendly interface and powerful features to keep your finances organized. With a focus on simplicity and efficiency, this application ensures that users can track expenses, generate receipts, and review their financial activities with ease.
+## PublixPassport
+
+PublixPassport is a comprehensive application designed to streamline expense management for users. Whether you're managing personal expenses or corporate finances. 
+PublixPassport offers a user-friendly interface and powerful features to keep your finances organized. 
+With a focus on simplicity and efficiency, this application ensures that users can track expenses, generate receipts, and review their financial activities with ease.
 
 ## Features
 
@@ -18,9 +22,11 @@ PublixPassport is a comprehensive application designed to streamline expense man
 
 - **Name**: Dorothy Vick  
 - **Email**: dorothy963vick@outlook.com 
-- **Website**: PublixPassport
+- **Website**: [PublixPassport](https://www.publix-passport.com)
 
-Dorothy Vick is a seasoned developer with a passion for creating efficient and user-friendly applications. With a strong background in web development and expertise in React, she has a track record of building high-quality projects. Dorothy is known for her meticulous attention to detail and her commitment to helping others succeed in the world of coding.
+- Dorothy Vick is a seasoned developer with a passion for creating efficient and user-friendly applications.
+- With a strong background in web development and expertise in React, she has a track record of building high-quality projects.
+- Dorothy is known for her meticulous attention to detail and her commitment to helping others succeed in the world of coding.
 
 ## Getting Started
 
@@ -28,7 +34,7 @@ Follow these steps to set up the project locally:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/PublixPassport.git
+   git clone https://github.com/dorothy963v/PublixPassport.git
 2. **Navigate to the Project Directory**:
    ```bash
    cd PublixPassport
